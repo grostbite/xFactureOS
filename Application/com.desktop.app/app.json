@@ -1,3 +1,14 @@
+/*!
+ * Desktop Application v0.0.2
+ * http://wxos.ru/
+ *
+ * Copyright 2015 Denis Khaibullin (SEVERUM TEAM)
+ * Email: wencms@gmail.com
+ * Released under the GNU GENERAL PUBLIC LICENSE Version 2.0
+ *
+ * Date: 2015-07-21
+ */
+
 {
     Name: "Desktop",
     Description: "Desktop Application",
