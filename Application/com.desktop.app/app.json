@@ -1,12 +1,12 @@
 {
     Name: "Desktop",
-    description: "Desktop Application",
-    version: "0.0.2",
-    auctor: "SEVERUM TEAM",
-    permission [
+    Description: "Desktop Application",
+    Version: "0.0.2",
+    Auctor: "SEVERUM TEAM",
+    Permission [
     {
         all: true
     }
     ],
-    systemApps true
+    SystemApps true
 }
