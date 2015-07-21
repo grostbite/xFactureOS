@@ -1,0 +1,12 @@
+{
+    Name: "Desktop",
+    description: "Desktop Application",
+    version: "0.0.2",
+    auctor: "SEVERUM TEAM",
+    permission [
+    {
+        all: true
+    }
+    ],
+    systemApps true
+}
