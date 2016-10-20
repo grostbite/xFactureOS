@@ -1,9 +1,9 @@
 						
 						 FREE CLOUD GENERAL PUBLIC LICENSE
 						
-						Version 1, 16 September 2015 15:03
+						Version 1.0, 20 October 2016 14:55
 							
-				Ñopyright (C) 2015 Denis Khaibullin <wencms@gmail.com>
+				Ñopyright (C) 2015-2016 Denis Khaibullin <wencms@gmail.com>
 				
 1. Overview
 
@@ -17,19 +17,16 @@ The author retains the copyright.
 
 3. Using the kernel and libraries
 
-This license does not allow to change and modify the kernel source code and libraries .
+This license does not allow to change and modify the kernel source code and libraries.
 
 4. Make distributions
 
-This license allows you to create software distributions using kernel and libraries.
+This license no allows you to create software distributions using kernel and libraries.
 
 5. Ñommerce
 
-This license allows you to carry out commercial support of your distributions.
+This license does not allow you to use the software for commercial purposes.
 
 6. Patches
 
 This license allows you to create and distribute patches to correct errors in the software.
-
-PS:
-It is Hell for the Open Source Community
