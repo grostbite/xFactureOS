@@ -7,7 +7,7 @@ This Russian Project Cloud Operating System that uses the technology architectur
 
 ## Source Content
 
-* Application: The source code for basic web applications
+* Apps: The source code for basic web applications
 * Root: media files
 * System: The source code for the kernel and libraries
 
