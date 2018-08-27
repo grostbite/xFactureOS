@@ -13,6 +13,8 @@ This Russian Project Cloud Operating System that uses the technology architectur
 
 ## Resource
 
-* [Official community](http://vk.com/xfactureos)
+* [Official community](https://vk.com/xfactureos)
 
 * [Official Web Site](http://xfactureos.ru)
+
+* [Official GitHub Profile](https://github.com/xfactureos)
