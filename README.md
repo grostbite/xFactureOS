@@ -1,9 +1,9 @@
 xFactureOS
 ======
 
-This Russian Project Cloud Operating System that uses the technology architecture "WEX".
+This Russian Project Cloud Operating System that uses the technology architecture "NX".
 
-![](https://pp.vk.me/c625217/v625217393/44cca/aQV8kiinL3M.jpg)
+![](https://pp.userapi.com/c845016/v845016673/1988a8/HX5EclpYDC8.jpg)
 
 ## Source Content
 
